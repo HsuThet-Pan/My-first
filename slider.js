@@ -1,3 +1,5 @@
+// it is me hello
+
 $(document).ready(function(){ //wait until page is fully loaded
 
 	//the slideshow code uses this to determine a few things. Make sure this is set correctly!			
